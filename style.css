@@ -35,6 +35,17 @@ nav a {
     width: 100px;
 }
 
+.site {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    padding: 30px;
+    border-radius: 30px;
+    width: 100px;
+    margin: 0px;
+}
+
 #viper {
     background-color: rgb(24, 163, 24);
 }
@@ -66,3 +77,54 @@ nav a {
 #pearl {
     background-color: rgb(106, 32, 112);
 }
+
+#a {
+    background-color: rgb(172, 13, 13);
+}
+
+#b {
+    background-color: rgb(8, 8, 175);
+}
+
+nav div {
+    width: 500px;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#ascent-a-1 {
+    background-image: url("./viper/ascent/img/a-lobby-to-a-default-1.png");
+        
+}
+
+#ascent-a-1:hover {
+    background-image: url("./viper/ascent/img/a-lobby-to-a-default-2.png");
+        
+}
+
+#ascent-a-2 {
+    background-image: url("./viper/ascent/img/a-lobby-to-a-dice-1.png");
+        
+}
+
+#ascent-a-2:hover {
+    background-image: url("./viper/ascent/img/a-lobby-to-a-dice-2.png");
+        
+}
+
+#ascent-b-1 {
+    background-image: url("./viper/ascent/img/b-lobby-to-b-default-1.png");
+        
+}
+
+#ascent-b-1:hover {
+    background-image: url("./viper/ascent/img/b-lobby-to-b-default-2.png");
+        
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
