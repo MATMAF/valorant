@@ -93,36 +93,6 @@ nav div {
     margin-bottom: 20px;
 }
 
-#ascent-a-1 {
-    background-image: url("./viper/ascent/img/a-lobby-to-a-default-1.png");
-        
-}
-
-#ascent-a-1:hover {
-    background-image: url("./viper/ascent/img/a-lobby-to-a-default-2.png");
-        
-}
-
-#ascent-a-2 {
-    background-image: url("./viper/ascent/img/a-lobby-to-a-dice-1.png");
-        
-}
-
-#ascent-a-2:hover {
-    background-image: url("./viper/ascent/img/a-lobby-to-a-dice-2.png");
-        
-}
-
-#ascent-b-1 {
-    background-image: url("./viper/ascent/img/b-lobby-to-b-default-1.png");
-        
-}
-
-#ascent-b-1:hover {
-    background-image: url("./viper/ascent/img/b-lobby-to-b-default-2.png");
-        
-}
-
 .center {
     display: block;
     margin-left: auto;
