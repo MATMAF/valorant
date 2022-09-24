@@ -1,39 +1,39 @@
 #breeze-a-1 {
-    background-image: url("./img/a-attack-to-a-default-1.png");
-        
-}
-
-#breeze-a-1:hover {
     background-image: url("./img/a-attack-to-a-default-2.png");
         
 }
 
-#breeze-a-2 {
-    background-image: url("./img/mid-to-a-default-1.png");
+#breeze-a-1:hover {
+    background-image: url("./img/a-attack-to-a-default-1.png");
         
 }
 
-#breeze-a-2:hover {
+#breeze-a-2 {
     background-image: url("./img/mid-to-a-default-2.png");
         
 }
 
-#breeze-b-1 {
-    background-image: url("./img/b-attack-to-b-default-1.png");
+#breeze-a-2:hover {
+    background-image: url("./img/mid-to-a-default-1.png");
         
 }
 
-#breeze-b-1:hover {
+#breeze-b-1 {
     background-image: url("./img/b-attack-to-b-default-2.png");
         
 }
 
+#breeze-b-1:hover {
+    background-image: url("./img/b-attack-to-b-default-1.png");
+        
+}
+
 #breeze-b-2 {
-    background-image: url("./img/mid-to-b-default-1.png");
+    background-image: url("./img/mid-to-b-default-2.png");
         
 }
 
 #breeze-b-2:hover {
-    background-image: url("./img/mid-to-b-default-2.png");
+    background-image: url("./img/mid-to-b-default-1.png");
         
 }

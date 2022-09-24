@@ -1,29 +1,29 @@
 #bind-a-1 {
-    background-image: url("./img/a-box-to-a-default-1.png");
-        
-}
-
-#bind-a-1:hover {
     background-image: url("./img/a-box-to-a-default-2.png");
         
 }
 
-#bind-a-2 {
-    background-image: url("./img/a-little-box-to-a-1.png");
+#bind-a-1:hover {
+    background-image: url("./img/a-box-to-a-default-1.png");
         
 }
 
-#bind-a-2:hover {
+#bind-a-2 {
     background-image: url("./img/a-little-box-to-a-2.png");
         
 }
 
+#bind-a-2:hover {
+    background-image: url("./img/a-little-box-to-a-1.png");
+        
+}
+
 #bind-b-1 {
-    background-image: url("./img/b-short-to-b-default-1.png");
+    background-image: url("./img/b-short-to-b-default-2.png");
         
 }
 
 #bind-b-1:hover {
-    background-image: url("./img/b-short-to-b-default-2.png");
+    background-image: url("./img/b-short-to-b-default-1.png");
         
 }

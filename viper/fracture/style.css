@@ -1,0 +1,79 @@
+#fracture-a-1 {
+    background-image: url("./img/a-spawn-to-a-default-2.png");
+        
+}
+
+#fracture-a-1:hover {
+    background-image: url("./img/a-spawn-to-a-default-1.png");
+        
+}
+
+#fracture-a-2 {
+    background-image: url("./img/a-spawn-to-a-top-2.png");
+        
+}
+
+#fracture-a-2:hover {
+    background-image: url("./img/a-spawn-to-a-top-1.png");
+        
+}
+
+#fracture-a-3 {
+    background-image: url("./img/a-attack-to-a-default-2.png");
+        
+}
+
+#fracture-a-3:hover {
+    background-image: url("./img/a-attack-to-a-default-1.png");
+        
+}
+
+#fracture-a-4 {
+    background-image: url("./img/a-attack-to-a-top-2.png");
+        
+}
+
+#fracture-a-4:hover {
+    background-image: url("./img/a-attack-to-a-top-1.png");
+        
+}
+
+#fracture-b-1 {
+    background-image: url("./img/b-main-to-b-safe-2.png");
+        
+}
+
+#fracture-b-1:hover {
+    background-image: url("./img/b-main-to-b-safe-1.png");
+        
+}
+
+#fracture-b-2 {
+    background-image: url("./img/b-main-to-b-safe-jump-2.png");
+        
+}
+
+#fracture-b-2:hover {
+    background-image: url("./img/b-main-to-b-safe-jump-1.png");
+        
+}
+
+#fracture-b-3 {
+    background-image: url("./img/b-attack-to-b-safe-2.png");
+        
+}
+
+#fracture-b-3:hover {
+    background-image: url("./img/b-attack-to-b-safe-1.png");
+        
+}
+
+#fracture-b-4 {
+    background-image: url("./img/b-bench-to-b-default-2.png");
+        
+}
+
+#fracture-b-4:hover {
+    background-image: url("./img/b-bench-to-b-default-1.png");
+        
+}
