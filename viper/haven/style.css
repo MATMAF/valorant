@@ -1,0 +1,29 @@
+#haven-a-1 {
+    background-image: url("./img/a-long-to-a-default-2.png");
+        
+}
+
+#haven-a-1:hover {
+    background-image: url("./img/a-long-to-a-default-1.png");
+        
+}
+
+#haven-b-1 {
+    background-image: url("./img/spawn-to-b-default-and-left-2.png");
+        
+}
+
+#haven-b-1:hover {
+    background-image: url("./img/spawn-to-b-default-and-left-1.png");
+        
+}
+
+#haven-c-1 {
+    background-image: url("./img/c-long-to-c-default-2.png");
+        
+}
+
+#haven-c-1:hover {
+    background-image: url("./img/c-long-to-c-default-1.png");
+        
+}

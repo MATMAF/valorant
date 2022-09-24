@@ -1,0 +1,39 @@
+#icebox-a-1 {
+    background-image: url("./img/a-attack-to-a-site-2.png");
+        
+}
+
+#icebox-a-1:hover {
+    background-image: url("./img/a-attack-to-a-site-1.png");
+        
+}
+
+#icebox-a-2 {
+    background-image: url("./img/a-attack-to-a-top-2.png");
+        
+}
+
+#icebox-a-2:hover {
+    background-image: url("./img/a-attack-to-a-top-1.png");
+        
+}
+
+#icebox-a-3 {
+    background-image: url("./img/a-attack-to-a-stall-2.png");
+        
+}
+
+#icebox-a-3:hover {
+    background-image: url("./img/a-attack-to-a-stall-1.png");
+        
+}
+
+#icebox-b-1 {
+    background-image: url("./img/b-main-to-b-default-2.png");
+        
+}
+
+#icebox-b-1:hover {
+    background-image: url("./img/b-main-to-b-default-1.png");
+        
+}

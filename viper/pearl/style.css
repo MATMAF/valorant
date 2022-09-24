@@ -1,0 +1,39 @@
+#pearl-a-1 {
+    background-image: url("./img/a-main-to-a-default-2.png");
+        
+}
+
+#pearl-a-1:hover {
+    background-image: url("./img/a-main-to-a-default-1.png");
+        
+}
+
+#pearl-a-2 {
+    background-image: url("./img/a-main-to-a-right-2.png");
+        
+}
+
+#pearl-a-2:hover {
+    background-image: url("./img/a-main-to-a-right-1.png");
+        
+}
+
+#pearl-b-1 {
+    background-image: url("./img/b-long-to-b-default-2.png");
+        
+}
+
+#pearl-b-1:hover {
+    background-image: url("./img/b-long-to-b-default-1.png");
+        
+}
+
+#pearl-b-2 {
+    background-image: url("./img/b-long-to-b-corner-2.png");
+        
+}
+
+#pearl-b-2:hover {
+    background-image: url("./img/b-long-to-b-corner-1.png");
+        
+}
