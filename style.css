@@ -94,6 +94,10 @@ nav a {
     background-color: rgb(204, 192, 21)
 }
 
+#mail {
+    color: rgb(174, 182, 191)
+}
+
 nav div {
     width: 500px;
     height: 300px;
